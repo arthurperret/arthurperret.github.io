@@ -1,7 +1,7 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
+title: 'Quantum Pseudo Telepathy on Qiskit'
+subtitle: 'Tutorials on quantum games with asymmetric information'
+date: 2019-06-29 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
